@@ -1,0 +1,1 @@
+export const CONNECTION_URL = "ws://localhost:8080"
